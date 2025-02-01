@@ -13,7 +13,8 @@ const CONFIG_MONGODB = {
 
 	//*/
 	//<id>,<password>,<server address>, <enter database>는 맞는 정보로 <>도 지우고 변경하면 됨
-	MONGODB_SRV: '"mongodb+srv://<id>:<password>@<server address>.mongodb.net/<enter database>"'
+	//MONGODB_SRV: '"mongodb+srv://<id>:<password>@<server address>.mongodb.net/<enter database>"'
+	MONGODB_SRV: '"mongodb+srv://asd:123qweasd@<server address>.mongodb.net/admin"'
 	//*/
 };
 
